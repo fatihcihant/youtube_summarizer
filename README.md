@@ -21,6 +21,7 @@ youtube_summarizer/
 ├── .gitignore                # Git ignore file
 ├── README.md                 # Project documentation
 ├── pyproject.toml            # UV package manager configuration
+├── .env
 └── LICENSE                   # MIT License
 ```
 
