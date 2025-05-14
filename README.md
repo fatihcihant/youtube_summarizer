@@ -42,7 +42,8 @@ youtube_summarizer/
         uv sync
 ```
 
-* Set up environment variables:Create a .env file in the project root:
+* Set up environment variables:
+    Create a .env file in the project root:
 ```bash
         GEMINI_API_KEY=your_gemini_api_key
 ```
@@ -90,4 +91,5 @@ Push to the branch (git push origin feature/your-feature).
 Open a pull request.
 
 ### License
-MIT License. See LICENSE for details.
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
